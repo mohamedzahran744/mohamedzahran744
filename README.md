@@ -66,15 +66,31 @@ Junior Machine Learning Engineer specializing in **AI, Deep Learning, and MLOps*
 
 ## 🏆 Featured Projects
 
+### 📊 Machine Learning Projects
+
 | 🎁 Project | 🔧 Tech Stack | ⭐ Highlights |
 |-----------|--------------|--------------|
-| [**Customer Churn Prediction**](https://github.com/mohamedzahran744) | XGBoost, Random Forest, FastAPI | 94% accuracy, deployed with RESTful APIs |
-| [**House Price Prediction**](https://github.com/mohamedzahran744) | XGBoost, Flask, Scikit-learn | Full-stack web app with custom UI |
-| [**Breast Cancer Diagnosis**](https://github.com/mohamedzahran744) | Logistic Regression, FastAPI | Medical ML pipeline with clinical validation |
-| [**Fashion MNIST CNN**](https://github.com/mohamedzahran744) | TensorFlow, Keras, CNN | Deep learning image classification |
-| [**AI Chatbot**](https://github.com/mohamedzahran744) | OpenAI API, FastAPI, LLMs | Conversational AI with memory management |
-| [**YouTube Video Summarizer**](https://github.com/mohamedzahran744) | Whisper API, OpenAI, NLP | Automated transcription & summarization |
-| [**Semantic Search Engine**](https://github.com/mohamedzahran744) | Embeddings, Vector Search | Intelligent document retrieval system |
+| [**Customer Churn Prediction**](https://github.com/mohamedzahran744/My-Data-For-ML/tree/main/Churn_Project) | XGBoost, Random Forest, FastAPI, Pydantic | 94% accuracy with ensemble methods, RESTful API deployment |
+| [**House Price Prediction**](https://github.com/mohamedzahran744/My-Data-For-ML/tree/main/Regression_Project) | XGBoost, Flask, Scikit-learn, HTML/CSS | Full-stack web app with model comparison & custom UI |
+| [**Breast Cancer Diagnosis**](https://github.com/mohamedzahran744) | Logistic Regression, FastAPI, Joblib | Medical diagnostic system with modular ML pipeline |
+
+### 🧠 Deep Learning Projects
+
+| 🎁 Project | 🔧 Tech Stack | ⭐ Highlights |
+|-----------|--------------|--------------|
+| [**Fashion MNIST CNN**](https://github.com/mohamedzahran744) | TensorFlow, Keras, CNN, NumPy | Image classification across 10 fashion categories |
+| [**Titanic Survival Prediction (ANN)**](https://github.com/mohamedzahran744) | TensorFlow, Keras, FastAPI, Pydantic | Multi-layer ANN with advanced feature engineering |
+
+### 🐍 Python Mini Projects
+
+| 🎁 Project | 🔧 Tech Stack | ⭐ Highlights |
+|-----------|--------------|--------------|
+| [**Number Guessing Game**](https://github.com/mohamedzahran744) | Python | Interactive CLI game with logic implementation |
+| [**Hangman Game**](https://github.com/mohamedzahran744) | Python | Classic word-guessing game |
+| [**Rock Paper Scissor Game**](https://github.com/mohamedzahran744) | Python | Game logic with user interaction |
+| [**Live Weather Desktop Notifications**](https://github.com/mohamedzahran744) | Python, API Integration | Real-time weather alerts |
+| [**ToDo GUI Application**](https://github.com/mohamedzahran744) | Python, Tkinter | Desktop task management app |
+| [**2048 Game**](https://github.com/mohamedzahran744) | Python, OOP | Classic 2048 puzzle game implementation |
 
 ## 💼 Professional Experience
 

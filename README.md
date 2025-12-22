@@ -1,7 +1,7 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
 Welcome to my page!  
-I'm Mohamed Zahran, Machine Learning Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197558.png" width="13"/> ** Egypt**.
+I'm Mohamed Zahran, Machine Learning Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197558.png" width="13"/>  **Egypt**.
 
 ## 🚀 About Me
 
@@ -24,6 +24,21 @@ Junior Machine Learning Engineer specializing in **AI, Deep Learning, and MLOps*
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+
+### Natural Language Processing (NLP)
+![NLTK](https://img.shields.io/badge/-NLTK-154f3c?style=flat-square&logo=python&logoColor=white)
+![SpaCy](https://img.shields.io/badge/-SpaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![Transformers](https://img.shields.io/badge/-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![BERT](https://img.shields.io/badge/-BERT-FF6F00?style=flat-square&logo=google&logoColor=white)
+![GPT](https://img.shields.io/badge/-GPT-412991?style=flat-square&logo=openai&logoColor=white)
+![Whisper](https://img.shields.io/badge/-Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+
+### Computer Vision
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pillow](https://img.shields.io/badge/-Pillow-3776AB?style=flat-square&logo=python&logoColor=white)
+![CNN](https://img.shields.io/badge/-CNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![Image Processing](https://img.shields.io/badge/-Image_Processing-5C3EE8?style=flat-square&logo=python&logoColor=white)
 
 ### Data Science & Visualization
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -60,10 +75,6 @@ Junior Machine Learning Engineer specializing in **AI, Deep Learning, and MLOps*
 ![Requests](https://img.shields.io/badge/-Requests-FF6F00?style=flat-square&logo=python&logoColor=white)
 ![Beautiful Soup](https://img.shields.io/badge/-Beautiful_Soup-43B02A?style=flat-square&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![NLTK](https://img.shields.io/badge/-NLTK-154f3c?style=flat-square&logo=python&logoColor=white)
-![SpaCy](https://img.shields.io/badge/-SpaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Pillow](https://img.shields.io/badge/-Pillow-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 
 ## 🏆 Featured Projects

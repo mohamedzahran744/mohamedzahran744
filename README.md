@@ -1,7 +1,7 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
 Welcome to my page!  
-I'm Mohamed Zahran, Machine Learning Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197558.png" width="13"/> **Minufiya, Egypt**.
+I'm Mohamed Zahran, AI & Machine Learning Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197558.png" width="13"/> **Egypt**.
 
 ## 🚀 About Me
 
@@ -10,7 +10,7 @@ Junior Machine Learning Engineer specializing in **AI, Deep Learning, and MLOps*
 - 🎓 B.Sc. in Mechatronics Engineering from Minufiya University (Graduated July 2025)
 - 🤖 AI/ML Intern at Sprint & Microsoft Collaboration
 - 💡 Built 10+ production-grade ML projects across various domains
-- 🏆 Competition winner: Digitopia 2025 & Creativa Innovation Hub 2025
+- 🏆 Competitions : Digitopia 2025 & Creativa Innovation Hub 2025
 
 ## 🛠️ Technologies & Tools
 

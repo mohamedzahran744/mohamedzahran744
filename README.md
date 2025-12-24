@@ -8,8 +8,9 @@
 
 </div>
 
-Welcome to my page!  
-I'm Mohamed Zahran, AI & Machine Learning Engineer | End-to-End ML & MLOps | LLMs & Production Systems.
+Welcome to my page!
+
+ I'm *Mohamed Zahran*, AI & Machine Learning Engineer | End-to-End ML & MLOps | LLMs & Production Systems.
 
 
 ## 🚀 About Me

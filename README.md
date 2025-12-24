@@ -1,7 +1,16 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=mohamedzahran744&label=Profile%20Views&color=FF1744&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/mohamedzahran744?label=Followers&style=flat-square&color=FF1744&logo=github)](https://github.com/mohamedzahran744)
+[![GitHub Stars](https://img.shields.io/github/stars/mohamedzahran744?label=Total%20Stars&style=flat-square&color=FF1744&logo=github)](https://github.com/mohamedzahran744)
+
+</div>
+
 Welcome to my page!  
-I'm Mohamed Zahran,AI & Machine Learning Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197558.png" width="13"/>  **Egypt**.
+I'm Mohamed Zahran, AI & Machine Learning Engineer | End-to-End ML & MLOps | LLMs & Production Systems.
+
 
 ## 🚀 About Me
 
@@ -147,9 +156,21 @@ Junior Machine Learning Engineer specializing in **AI, Deep Learning, and MLOps*
 
 ---
 
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedzahran744&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedzahran744&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mohamedzahran744&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedzahran744&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+---
 
 <p align="center">
   <i>💡 "Turning data into intelligence, one model at a time"</i>
